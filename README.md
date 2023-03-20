@@ -5,7 +5,7 @@ I am Front End developer.
 --------------------------
 
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://voredev.ru'>Portfolio</a>
-*   🧠  Currently learning JavaScript, React.js
+*   🧠  Currently learning JavaScript, React.js, Node.js
 *   🤝  I'm open to collaborating on interesting projects as a developer [voredev](https://t.me/voredev)
 
 ### Skills
