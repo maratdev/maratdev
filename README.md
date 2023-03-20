@@ -25,4 +25,5 @@ I am Front End developer.
 ### Socials
 <a href="https://www.linkedin.com/in/voredev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;
 <a href="https://hh.ru/resume/cb47e907ff05a5c66d0039ed1f6a656f6f3458/" target="_blank" rel="noreferrer"><img src="img/hh.svg" width="32" height="32" /></a>
+
 </p>
