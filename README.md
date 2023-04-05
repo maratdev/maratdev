@@ -1,4 +1,4 @@
-<img alt="voredev" src="img/banner.jpg" width=1590px height=400px/>
+<img alt="voredev" src="img/banner.jpg" width=1590px height=180px/>
 
 Hi 👋 My name is Marat
 ========================================================================================================================================
