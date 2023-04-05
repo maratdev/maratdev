@@ -8,7 +8,7 @@ I am Front End developer.
 
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://voredev.ru'>Portfolio</a>
 *   🧠  Currently learning JavaScript, React.js, Node.js
-*   🤝  I'm open to collaborating on interesting projects as a developer  <a href="https://t.me/voredev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white" width="55" height="15" alt="Figma" /></a></a>
+*   🤝  I'm open to collaborating on interesting projects as a developer  <a href="https://t.me/voredev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white" width="55" height="15" alt="Telegram" /></a>
 
 ### Skills
 
