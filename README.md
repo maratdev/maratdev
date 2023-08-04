@@ -44,7 +44,7 @@ I am Fullstack developer.
 
 #### Longest streak stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=maratdev&theme=holi-theme)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=maratdev&theme=holi-theme&mode=weekly)](https://git.io/streak-stats)
 
 #### Profile statistics
 
@@ -54,7 +54,6 @@ I am Fullstack developer.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maratdev&layout=compact&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
 --------------------------
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=maratdev.maratdev)
 
 </details>
