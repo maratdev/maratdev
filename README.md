@@ -9,6 +9,7 @@ I am Fullstack developer.
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://voredev.ru'>Portfolio</a>
 *   🧠  Currently learning JavaScript, React.js, Node.js
 *   🤝  I'm open to collaborating on interesting projects as a developer ☛ <a href="https://t.me/voredev">voredev</a>
+*   ✉️  You can contact me at [voredev@gmail.com](mailto:voredev@gmail.com)
 
 ### Skills
 
@@ -39,7 +40,11 @@ I am Fullstack developer.
 
 --------------------------
 
-<details> <summary><b>⚡GitHub Stats</b></summary>
+<details> <summary><b>⚡My GitHub Stats</b></summary>
+
+#### Longest streak stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=maratdev&theme=holi-theme)](https://git.io/streak-stats)
 
 #### Profile statistics
 
@@ -48,5 +53,8 @@ I am Fullstack developer.
 #### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maratdev&layout=compact&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=maratdev.visitor-badge)
+--------------------------
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=maratde.maratdev)
+
 </details>
