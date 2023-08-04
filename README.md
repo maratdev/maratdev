@@ -1,9 +1,9 @@
 <img alt="voredev" src="img/banner.jpg"/>
 
-Hi 👋 My name is Marat
+Hi <img src="img/Hi.gif" height="30" /> My name is Marat
 ========================================================================================================================================
 
-I am Front End developer.
+I am Fullstack developer.
 --------------------------
 
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://voredev.ru'>Portfolio</a>
@@ -47,4 +47,6 @@ I am Front End developer.
 
 #### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maratdev&layout=compact&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=maratdev.visitor-badge)
 </details>
