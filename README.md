@@ -55,6 +55,6 @@ I am Fullstack developer.
 
 --------------------------
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=maratde.maratdev)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=maratdev.maratdev)
 
 </details>
