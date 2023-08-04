@@ -1,4 +1,4 @@
-<img alt="voredev" src="img/banner.png" width=1590px height=180px />
+<img alt="voredev" src="img/banner.jpg"/>
 
 Hi 👋 My name is Marat
 ========================================================================================================================================
@@ -8,7 +8,7 @@ I am Front End developer.
 
 *   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://voredev.ru'>Portfolio</a>
 *   🧠  Currently learning JavaScript, React.js, Node.js
-*   🤝  I'm open to collaborating on interesting projects as a developer ☛ <a href="https://t.me/voredev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?&logo=telegram&logoColor=white" width="55" height="15" alt="Telegram" /></a>
+*   🤝  I'm open to collaborating on interesting projects as a developer ☛ <a href="https://t.me/voredev">voredev</a>
 
 ### Skills
 
@@ -31,7 +31,18 @@ I am Front End developer.
 
 ### Socials
 <a href="https://www.linkedin.com/in/voredev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="linkedin.com" /></a>&nbsp;
-<a href="https://hh.ru/resume/cb47e907ff05a5c66d0039ed1f6a656f6f3458/" target="_blank" rel="noreferrer"><img src="img/hh.svg" width="32" height="32" alt="hh.ru" /></a>
+<a href="https://hh.ru/resume/cb47e907ff05a5c66d0039ed1f6a656f6f3458/" target="_blank" rel="noreferrer"><img src="img/hh.svg" width="32" height="32" alt="hh.ru" /></a>&nbsp;
 <a href="https://www.instagram.com/voredev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="instagram" /></a>&nbsp;
+<a href="https://dev.to/maratdev" target="_blank" rel="noreferrer"><img src="img/dev-dot-to.svg" width="52" height="32" alt="dev.to" /></a>
 
 </p>
+--------------------------
+<details> <summary><b>⚡GitHub Stats</b></summary>
+
+#### Profile statistics
+
+[![Voredev GitHub stats](https://github-readme-stats.vercel.app/api?username=maratdev&theme=holi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maratdev&layout=compact&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+</details>
