@@ -36,7 +36,9 @@ I am Front End developer.
 <a href="https://dev.to/maratdev" target="_blank" rel="noreferrer"><img src="img/dev-dot-to.svg" width="52" height="32" alt="dev.to" /></a>
 
 </p>
+
 --------------------------
+
 <details> <summary><b>⚡GitHub Stats</b></summary>
 
 #### Profile statistics
