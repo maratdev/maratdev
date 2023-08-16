@@ -1,6 +1,6 @@
 <img alt="voredev" src="img/banner.jpg"/>
 
-Hi <img src="img/Hi.gif" height="30" /> My name is Marat
+Hi <img src="img/Hi.gif" height="30" width="30" /> My name is Marat
 ========================================================================================================================================
 
 I am Fullstack developer.
