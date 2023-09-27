@@ -1,9 +1,11 @@
 <img alt="voredev" src="img/banner.jpg"/>
 
 Hi <img src="img/Hi.gif" height="30" width="30" /> My Friend
+
 ========================================================================================================================================
 
 I am Fullstack developer.
+
 --------------------------
 
 *   🧔🏻‍♂️  My name is Marat
