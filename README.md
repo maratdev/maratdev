@@ -1,9 +1,8 @@
 <img alt="voredev" src="img/banner.jpg"/>
 
-Hi <img src="img/Hi.gif" height="30" width="30" /> My Friend
-========================================================================================================================================
+# <a id="title">Hi</a> <img src="img/Hi.gif" height="30" width="30" /> <a id="title">My Friend </a>
 
-I am Fullstack developer.
+<a id="title">I am Fullstack developer. </a> 
 --------------------------
 
 *   🧔🏻‍♂️  My name is Marat
