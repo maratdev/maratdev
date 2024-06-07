@@ -6,8 +6,8 @@
 --------------------------
 
 *   🧔🏻‍♂️  My name is Marat
-*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://voredev.ru'>Portfolio</a>
-*   🧠  Currently learning JavaScript, React.js, Node.js
+*   🖥️  See my portfolio at <a target="_blank" rel="noreferrer" href='https://voredev.ru/?src=git'>Portfolio</a>
+*   🧠  Currently learning JavaScript, React.js, Next.js, Node.js
 *   🤝  I'm open to collaborating on interesting projects as a developer ☛ <a href="https://t.me/voredev">voredev</a>
 *   ✉️  You can contact me at [voredev@gmail.com](mailto:voredev@gmail.com)
 
@@ -54,7 +54,7 @@
 [![Voredev GitHub stats](https://github-readme-stats.vercel.app/api?username=maratdev&theme=holi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maratdev&layout=compact&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maratdev&layout=compact&theme=holi&hide=php,css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 --------------------------
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=maratdev.maratdev)
